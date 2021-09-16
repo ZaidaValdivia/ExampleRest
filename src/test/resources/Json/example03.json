@@ -1,0 +1,25 @@
+{
+  "Name":"Zaida",
+  "Last Name":"Valdivia",
+  "Age":30.00,
+  "Profession":"Industrial Engineer",
+  "color": "Red",
+  "address": ["Address1", "Address2","Address3"],
+  "Nationalities":[
+    {
+      "Country":"India",
+      "Data":{
+        "Capital":"New Delhi",
+        "Altitude":343,
+        "Length":343
+      },
+    {
+      "Country":"Bolivia",
+      "Data":{
+        "Capital":"La PAZ",
+        "Altitude":343,
+        "Length":343
+      }
+    }
+  ]
+}

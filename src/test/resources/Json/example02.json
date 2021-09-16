@@ -1,0 +1,8 @@
+{
+  "Name":"Zaida",
+  "Last Name":"Valdivia",
+  "Age":30.00,
+  "Profession":"Industrial Engineer",
+  "color": "Red",
+  "address": ["Address1", "Address2","Address3"]
+}
